@@ -15,7 +15,7 @@
         background-color: var(--Very-Light-Gray);
         width: 100%;
         max-height: auto;
-        height: 100vh;
+        height: auto;
         overflow-y: scroll;
         overflow-x: hidden;
         display: flex;
